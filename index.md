@@ -1,5 +1,5 @@
 ---
-layout: default
+# layout: default
 Title: Savann Thorn's Personal Website
 Description: Resume, Portfolio and About Me
 ---
