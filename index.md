@@ -2,6 +2,14 @@
 layout: default
 ---
 
+
+
+![My Doge, Herculino](/image/doge-herculino.jpg)
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
