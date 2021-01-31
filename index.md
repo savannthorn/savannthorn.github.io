@@ -4,7 +4,7 @@ layout: default
 
 
 
-![My Doge, Herculino](/image/doge-herculino.jpg {:height="25%" width="25%"})
+![My Doge, Herculino](/image/doge-herculino.jpg)
 
 
 
