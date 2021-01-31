@@ -3,21 +3,20 @@ title: Savann Thorn's Personal Website
 description: Resume, Portfolio and About Me
 ---
 
-
+I once had a dog named Hercules. Then I got married. He does this when my wife calls him Herculino.
 
 ![My Doge, Herculino](/image/doge-herculino.jpg)
 
+Check out some time series
+
+[Time Series](/timeseries/index.md)
+
+Here's my Resume
+
+![My Resume](/cv/Savann_Thorn_Resume_01112021.pdf)
 
 
 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
