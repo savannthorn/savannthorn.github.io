@@ -4,7 +4,7 @@ layout: default
 
 
 
-![My Doge, Herculino](/image/doge-herculino.jpg =384x512)
+![My Doge, Herculino](/image/doge-herculino.jpg){:height="50%" width="50%"}
 
 
 
