@@ -4,7 +4,7 @@ layout: default
 
 
 
-![My Doge, Herculino](/image/doge-herculino.jpg)
+![My Doge, Herculino](/image/doge-herculino.jpg =384x512)
 
 
 
