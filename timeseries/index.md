@@ -8,4 +8,4 @@ You can download the Juypter file here
 
 You can go back to the main page here
 
-[Go home](/savannthorn.github.io/index.md)
+[Go home](index.md)
